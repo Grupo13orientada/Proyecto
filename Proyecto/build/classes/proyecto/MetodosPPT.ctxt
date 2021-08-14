@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=MetodosPPT
+comment1.params=
+comment1.target=void\ P1vsCPU()
+comment2.params=
+comment2.target=void\ RandomCPU()
+comment3.params=
+comment3.target=void\ CPUnoC()
+comment4.params=
+comment4.target=int\ turno()
+comment5.params=
+comment5.target=void\ instruccion()
+comment6.params=
+comment6.target=void\ P1vsP2()
+numComments=7

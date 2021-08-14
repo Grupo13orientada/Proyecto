@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Menu
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ portada()
+comment3.params=msj
+comment3.target=void\ mensaje(java.lang.String)
+numComments=4
